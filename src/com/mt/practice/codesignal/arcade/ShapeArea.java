@@ -1,4 +1,4 @@
-package com.mt.practice.codesignal;
+package com.mt.practice.codesignal.arcade;
 
 /**
  * Below we will define an n-interesting polygon. Your task is to find the area of a polygon for a given n.

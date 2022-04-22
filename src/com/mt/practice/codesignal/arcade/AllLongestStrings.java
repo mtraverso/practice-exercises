@@ -1,4 +1,4 @@
-package com.mt.practice.codesignal;
+package com.mt.practice.codesignal.arcade;
 
 import java.util.ArrayList;
 import java.util.Arrays;
